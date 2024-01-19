@@ -1,0 +1,10 @@
+body{
+    overflow: hidden;
+}
+.wrapper{
+    height: 84vh;
+}
+.back_btn{
+    height: fit-content;
+    width: fit-content;
+}

@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins' ;
+    height: 100vh;
+}
+form{
+    width: 90%;
+}
+a{
+    font-size: larger;
+    font-weight: 400;
+}
+.wrapper {
+    background-image: url("/Patient/images/7768657_3763028.jpg");
+    
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    
+}
+.main-content {
+    backdrop-filter: blur(8px) saturate(180%);
+    -webkit-backdrop-filter: blur(8px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+    height: 100%;
+    
+    padding: 1rem;
+    width: 500px;
+}
