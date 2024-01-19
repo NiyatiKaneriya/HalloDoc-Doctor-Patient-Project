@@ -8,22 +8,7 @@
     form {
       width: 75%;
     }
-    /* .upload-btn {
-        position: absolute;
-        top: 0px;
-        right: 0px;
-        color: #01bce9;
-        font-size: 16px;
-      }
-      .upload-file {
-        border: 1px solid #ccc;
-        width: fit-content;
-        display: flex;
-        justify-content: flex-end;
-        padding: 6px 12px;
-        cursor: pointer;
-      } */
-    
+  
       input[type=file]{
         display: none;
       }
