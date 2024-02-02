@@ -4,3 +4,6 @@ body{
 .wrapper{
     height: 84vh;
 }
+#theme-button:hover{
+    color: white;
+}

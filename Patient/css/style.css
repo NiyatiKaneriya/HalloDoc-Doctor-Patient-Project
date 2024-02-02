@@ -12,7 +12,7 @@ a{
     font-weight: 400;
 }
 .wrapper {
-    background-image: url("/Patient/images/7768657_3763028.jpg");
+    background-image: url("/Patient/images/11116016_415.jpg");
     
     background-position: center;
     background-size: cover;
@@ -33,4 +33,7 @@ a{
     
     padding: 1rem;
     width: 500px;
+}
+#theme-button:hover{
+    color: white;
 }

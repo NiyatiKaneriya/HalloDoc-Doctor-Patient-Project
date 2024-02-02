@@ -5,6 +5,9 @@
     height:auto;
     
 }
+#theme-button:hover{
+  color: white;
+}
 form {
   width: 75%;
 }
